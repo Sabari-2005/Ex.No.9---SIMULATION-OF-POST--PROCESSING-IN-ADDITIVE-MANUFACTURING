@@ -32,7 +32,6 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-
 ![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/341857e8-3e46-45b1-a3d9-9bf4ecbd14ee)
 ![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/8cbaf7af-6026-49c3-9739-c6486265aca4)
 ![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/2aa258ba-7eed-41fd-a68f-e59c5fb1619b)
@@ -55,10 +54,6 @@
 
 ## Output:
 ![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/82f79ab8-18e1-40e9-81c4-790511b86a65)
-
-
-
-
 ### Name:R.Sabarinath
 ### Register Number:212223100048
 
