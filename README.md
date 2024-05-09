@@ -33,6 +33,14 @@
 
 ## OUTPUT :
 
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/341857e8-3e46-45b1-a3d9-9bf4ecbd14ee)
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/8cbaf7af-6026-49c3-9739-c6486265aca4)
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/2aa258ba-7eed-41fd-a68f-e59c5fb1619b)
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/efb14848-87f7-42ed-a5de-cd6bc5a3d098)
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/24767825-ce0e-4c7e-b2e1-4d63de433ccf)
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/42153f48-cff2-4417-8630-22ea5bb41887)
+
+
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
 ![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
@@ -46,9 +54,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/Sabari-2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139338709/82f79ab8-18e1-40e9-81c4-790511b86a65)
 
-### Name:
-### Register Number:
+
+
+
+### Name:R.Sabarinath
+### Register Number:212223100048
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
